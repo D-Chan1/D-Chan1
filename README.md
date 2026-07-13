@@ -2,7 +2,7 @@
 - 2nd year @ UofT Computer Science
 - Based in Toronto
 - Typing Speed: 130 wpm
-- Interested in Full Stack Development
+- Interested in Full Stack Development and UX
 
 ## Skills
 
